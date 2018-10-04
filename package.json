@@ -36,5 +36,6 @@
   "bugs": {
     "url": "https://github.com/GHK15/spark/issues"
   },
-  "homepage": "https://github.com/GHK15/spark#readme"
+  "homepage": "https://github.com/GHK15/spark#readme",
+  "devDependencies": {}
 }
