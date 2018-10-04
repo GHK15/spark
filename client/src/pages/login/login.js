@@ -5,17 +5,16 @@
 // <link type="text/css" rel="stylesheet" href="https://cdn.firebase.com/libs/firebaseui/3.1.1/firebaseui.css" />
 
 
-// initialize firebase
-var config = {
-    apiKey: "AIzaSyAONZYnyHUjy1Sng-pxNkStJ_NBkLM83Dw",
-    authDomain: "campshare-2c108.firebaseapp.com",
-    databaseURL: "https://campshare-2c108.firebaseio.com",
-    projectId: "campshare-2c108",
-    storageBucket: "campshare-2c108.appspot.com",
-    messagingSenderId: "850750063272"
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyB8nJB4M4D0GTwOUBQlHen0tYSGfINrASA",
+    authDomain: "spark-aec8c.firebaseapp.com",
+    databaseURL: "https://spark-aec8c.firebaseio.com",
+    projectId: "spark-aec8c",
+    storageBucket: "spark-aec8c.appspot.com",
+    messagingSenderId: "263817810568"
   };
   firebase.initializeApp(config);
-  var database = firebase.database();
   
   
   // //CREATE VARs for username and password capture from form:
